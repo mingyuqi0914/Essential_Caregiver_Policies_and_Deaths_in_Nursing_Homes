@@ -2,11 +2,9 @@
 
 The SAS and Stata codes in this repository reproduce the analytic data set and exhibits for the following paper:
 
-Qi, M., Ghazali, N., & Konetzka, R. T. (2024). Effects of essential caregiver policies on COVID‐19 and non‐COVID‐19 deaths in nursing homes. Health Economics, 33(10), 2321-2341.
+[Qi, M., Ghazali, N., & Konetzka, R. T. (2024). Effects of essential caregiver policies on COVID‐19 and non‐COVID‐19 deaths in nursing homes. Health Economics, 33(10), 2321-2341.](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.4873)
 
- [Link to the article](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.4873)
-
-## Input data 
+## Data sources
 
 * [CMS COVID-19 Nursing Home data](https://data.cms.gov/covid-19/covid-19-nursing-home-data)
 
@@ -18,7 +16,7 @@ Qi, M., Ghazali, N., & Konetzka, R. T. (2024). Effects of essential caregiver po
 
 * [American Community Survey 2018-2022 5-year Estimates data](https://www.socialexplorer.com/explore-tables)
   
-## Steps for recreating the analytic data set
+## Steps for creating the analytic data set and estimation sample
 
 1. Download all the data sets listed in the **Input data** section.
 
