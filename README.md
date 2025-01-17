@@ -14,8 +14,6 @@ Qi, M., Ghazali, N., & Konetzka, R. T. (2024). Effects of essential caregiver po
 
 * [Nursing Home Compare 2019 and 2020 monthly data sets](https://data.cms.gov/provider-data/topics/nursing-homes)
 
-* [Provider of Service file (POS)](https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-hospital-non-hospital-facilities), 2013-2020
-
 * [NYTimes COVID-19 data](https://github.com/nytimes/covid-19-data)
 
 * [American Community Survey 2018-2022 5-year Estimates data](https://www.socialexplorer.com/explore-tables)
